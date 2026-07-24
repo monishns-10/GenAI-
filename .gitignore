@@ -1,0 +1,12 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+
+# WhatsApp Session Profile (Crucial to ignore so session isn't exposed/broken)
+chrome_wa_profile/
+
+# Local Outputs & Screenshots
+screenshots/
+*.png
+*.xlsx
+*.json
