@@ -1,0 +1,24 @@
+# Student Grade System
+
+This project is a Python program that converts student marks into letter grades.
+
+## Grade Scale
+
+- 90–100 : A
+- 80–89 : B
+- 70–79 : C
+- 60–69 : D
+- Below 60 : E
+
+## Features
+
+- Accepts marks from the user.
+- Validates input.
+- Handles invalid marks.
+- Prevents crashes using exception handling.
+
+## How to Run
+
+```bash
+python grade_system.py
+```
