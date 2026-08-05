@@ -10,3 +10,4 @@ screenshots/
 *.png
 *.xlsx
 *.json
+venv/
