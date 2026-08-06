@@ -1,0 +1,57 @@
+[
+    {
+        "Timestamp": "2026-08-03 11:58:29",
+        "Name": "Appa ❤️",
+        "Phone": "9443819993",
+        "Message_Sent": "Hello Appa ❤️, this is an automated message to stay in touch!",
+        "Status": "Success - Sent",
+        "Screenshot_Path": "./screenshots\\Appa_20260803_115848.png",
+        "Last_3_Incoming_Messages": [
+            "No previous incoming messages found."
+        ]
+    },
+    {
+        "Timestamp": "2026-08-03 11:58:54",
+        "Name": "Appa ❤️",
+        "Phone": "9894756012",
+        "Message_Sent": "Hello Appa ❤️, this is an automated message to stay in touch!",
+        "Status": "Success - Sent",
+        "Screenshot_Path": "./screenshots\\Appa_20260803_115915.png",
+        "Last_3_Incoming_Messages": [
+            "No previous incoming messages found."
+        ]
+    },
+    {
+        "Timestamp": "2026-08-03 11:59:20",
+        "Name": "Amma ❤️",
+        "Phone": "9487739993",
+        "Message_Sent": "Hello Amma ❤️, this is an automated message to stay in touch!",
+        "Status": "Success - Sent",
+        "Screenshot_Path": "./screenshots\\Amma_20260803_115941.png",
+        "Last_3_Incoming_Messages": [
+            "No previous incoming messages found."
+        ]
+    },
+    {
+        "Timestamp": "2026-08-03 11:59:47",
+        "Name": "Tarun",
+        "Phone": "9952330887",
+        "Message_Sent": "Hello Tarun, this is an automated message to stay in touch!",
+        "Status": "Success - Sent",
+        "Screenshot_Path": "./screenshots\\Tarun_20260803_120007.png",
+        "Last_3_Incoming_Messages": [
+            "No previous incoming messages found."
+        ]
+    },
+    {
+        "Timestamp": "2026-08-03 12:00:12",
+        "Name": "Tarun",
+        "Phone": "8220730362",
+        "Message_Sent": "Hello Tarun, this is an automated message to stay in touch!",
+        "Status": "Success - Sent",
+        "Screenshot_Path": "./screenshots\\Tarun_20260803_120030.png",
+        "Last_3_Incoming_Messages": [
+            "No previous incoming messages found."
+        ]
+    }
+]

@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv(override=True)
 
 def check_keys():
-    """Check if required API keys are present as requested by the assignment."""
+    """Check if required API keys are present"""
     missing_keys = []
     if not os.environ.get("OPENAI_API_KEY"):
         missing_keys.append("OPENAI_API_KEY")
